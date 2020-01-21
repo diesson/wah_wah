@@ -1,2 +1,3 @@
-# wah_wah
-Desenvolvimento do efeito wah-wah em um STM32F4
+# Desenvolvimento do efeito wah-wah em um STM32F4
+
+Neste projeto foi implementado o efeito de áudio Wah-wah em uma plataforma de desenvolvimento STM32F4Discovery (ARM Cortex-M4TM) acoplado a um codec de áudio WolfsonPi, utilizando a linguagem de programação C. Essa atividade foi desenvolvida na unidade curricular Processamento Digital de Sinais II, do curso Engenharia Eletrônica do Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina. Nesse trabalho foi implementado um algoritmo do efeito utilizando a linguagem de programação Python e, em seguida, utilizando o microcontrolador mencionado, implementado em hardware e validado o seu funcionamento em um microcontrolador com ponto flutuante.
